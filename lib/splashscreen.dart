@@ -81,7 +81,7 @@ class _MyNotesSplashScreenState extends State<MyNotesSplashScreen>
             return Stack(
               alignment: Alignment.topCenter,
               children: [
-                // Background decoration
+
                 Positioned(
                   top: height * 0.045,
                   left: 48,
